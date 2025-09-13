@@ -1,4 +1,4 @@
-#🌱 WhatsApp-Based AI Assistant for Crop Disease Detection
+#🌱 "WhatsApp-Based LeafSense AI"
 #An AI-powered WhatsApp assistant that helps farmers detect crop diseases from leaf images in real time. Farmers simply send a photo via WhatsApp, and the system responds with the predicted disease and confidence score.
 ✨ Features
 📷 Detect crop diseases from leaf images
